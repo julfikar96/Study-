@@ -1,0 +1,8 @@
+{
+  "name": "Remix My Study Tracker",
+  "description": "A clean, responsive study progress tracker for SSC/HSC students with independent Chapter, MCQ, and CQ checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
